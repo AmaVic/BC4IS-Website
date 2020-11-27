@@ -1,4 +1,4 @@
-Website of the Conference Blockchain 4 Information Systems.
+Website of the Workshop on Blockchain 4 Information Systems.
 
 It is based on the following template:
 * Template Name: TheEvent
